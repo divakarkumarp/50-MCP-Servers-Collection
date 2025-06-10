@@ -1,6 +1,7 @@
 # 🚀 50+ Model Context Protocol (MCP) Servers Collection
-![Image](https://github.com/user-attachments/assets/a7e7e95d-4f3d-4216-8e3f-d51428d18280)
 Welcome to the comprehensive collection of **Model Context Protocol (MCP) Servers**! This repository serves as a curated list of 50+ MCP servers that extend AI capabilities across various domains and use cases.
+
+![Image](https://github.com/user-attachments/assets/a7e7e95d-4f3d-4216-8e3f-d51428d18280)
 
 ### 💡 Support & Connect
 If you found this helpful:
