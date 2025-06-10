@@ -197,7 +197,6 @@ Found a new MCP server that should be added to this list? Please feel free to:
 
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/)
 - [Anthropic's MCP Introduction](https://www.anthropic.com/news/model-context-protocol)
-- [Original Article](https://www.marktechpost.com/2025/06/08/50-model-context-protocol-mcp-servers-worth-exploring/)
 
 ## ⭐ Star This Repository
 
