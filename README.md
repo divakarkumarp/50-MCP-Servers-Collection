@@ -201,7 +201,7 @@ Found a new MCP server that should be added to this list? Please feel free to:
 
 ## ⭐ Star This Repository
 
-If you find this collection useful, please consider giving it a star! It helps others discover these amazing MCP servers.
+If you find this collection useful, please consider giving it a star! It helps others discover these amazing MCP servers..
 
 ---
 
