@@ -24,7 +24,7 @@ If you found this helpful:
 Your support means a lot and keeps projects like this alive!
 ## 📋 What is the Model Context Protocol (MCP)?
 
-The Model Context Protocol (MCP), introduced by Anthropic in November 2024, establishes a standardized, secure interface for AI models to interact with external tools—code repositories, databases, files, web services, and more—via a JSON-RPC 2.0-based protocol. MCP is already supported by Claude, Gemini, and OpenAI, and is rapidly being adopted by platforms like Replit, Sourcegraph, and Vertex AI.
+The Model Context Protocol (MCP), introduced by Anthropic in November 2024, establishes a standardized, secure interface for AI models to interact with external tools - code repositories, databases, files, web services, and more - via a JSON-RPC 2.0-based protocol. MCP is already supported by Claude, Gemini, and OpenAI, and is rapidly being adopted by platforms like Replit, Sourcegraph, and Vertex AI.
 
 ## 📊 MCP Servers by Category
 
@@ -156,6 +156,7 @@ The Model Context Protocol (MCP), introduced by Anthropic in November 2024, esta
 | [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) | JetBrains MCP Proxy |
 | [qainsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) | JMeter MCP server |
 | [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) | API Server MCP |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Remote MCP server for X data, extraction jobs, webhooks, and API workflows |
 | [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) | JVM MCP server |
 | [yangkyeongmo/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) | Apache Airflow MCP |
 | [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) | Mindmap MCP server |
@@ -207,4 +208,4 @@ If you find this collection useful, please consider giving it a star! It helps o
 
 **Last Updated**: June 2025  
 **Total Servers**: 50+  
-**Categories**: 7
+**Categories**: 8
